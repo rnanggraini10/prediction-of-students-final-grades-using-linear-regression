@@ -1,1 +1,1 @@
-# prediction-of-students-final-grades-using-linear-regression
+# Prediction-of-students-final-grades-using-linear-regression
